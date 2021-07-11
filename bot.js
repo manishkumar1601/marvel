@@ -799,7 +799,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                             }
                             else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [Marvel] --*' + 
-                                    '\n*JulieMwol an error has occurred!*'+
+                                    '\n*Marvel an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
                                     '\n*Aslo you can join our support group:* https://chat.whatsapp.com/Cj8KuqHIy1i3TF9yByBMJR' +
